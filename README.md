@@ -27,7 +27,7 @@ PetTracker es un proyecto que combina una aplicación web y una API REST diseña
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/DanielPMdev/PetTracker.git
+   git clone --depth 1 https://github.com/DanielPMdev/PetTracker.git
    ```
 2. Navega al directorio raíz:
    ```bash
