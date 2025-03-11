@@ -41,9 +41,11 @@ cd pettracker-api
 ```
 🛠️ **Configura la base de datos y JWT en** `pettracker-api/src/main/resources/application.properties`:  
 ```properties
-spring.datasource.url=jdbc:h2:mem:pettracker
-spring.datasource.username=sa
-spring.datasource.password=
+spring.datasource.url=[CONEXION_DB]
+spring.datasource.username=[USERNAME]
+spring.datasource.password=[PASSWORD]
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+
 jwt.secret=tu-clave-secreta
 ```
 ▶️ **Compila y ejecuta la API**:  
