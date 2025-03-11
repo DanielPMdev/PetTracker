@@ -1,7 +1,5 @@
 # PetTracker 🐾
 
-![PetTracker Logo](https://raw.githubusercontent.com/DanielPMdev/PetTracker/main/assets/pettracker-logo.png)
-
 PetTracker es un proyecto que combina una aplicación web y una API REST diseñadas para gestionar el bienestar de mascotas. La web, construida con **Spring Boot** y **Thymeleaf**, consume la API REST incluida en este repositorio para ofrecer una solución integral y segura.
 
 ## Características principales
