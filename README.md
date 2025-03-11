@@ -1,6 +1,6 @@
 # PetTracker 🐾
 
-![PetTracker Logo](https://via.placeholder.com/150)
+![PetTracker Logo]([https://via.placeholder.com/150](https://raw.githubusercontent.com/[tu-usuario]/PetTracker/main/assets/pettracker-logo.png))
 
 PetTracker es un proyecto que combina una aplicación web y una API REST diseñadas para gestionar el bienestar de mascotas. La web, construida con **Spring Boot** y **Thymeleaf**, consume la API REST incluida en este repositorio para ofrecer una solución integral y segura.
 
@@ -29,7 +29,7 @@ PetTracker es un proyecto que combina una aplicación web y una API REST diseña
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/[tu-usuario]/PetTracker.git
+   git clone https://github.com/DanielPMdev/PetTracker.git
    ```
 2. Navega al directorio raíz:
    ```bash
@@ -77,15 +77,3 @@ Desarrollado por DanielPM.dev como proyecto final de asignatura de AD y PMDM. La
 Happy coding! 🚀  
 #SpringBoot #Thymeleaf #API #PetTracker #Mascotas
 ```
-
----
-
-### Instrucciones para Usar:
-1. **Descripción**: Copia y pega la descripción en la sección "About" de tu repositorio en GitHub (ajusta `[tu-usuario]` por tu nombre de usuario).
-2. **README.md**:
-   - Crea un archivo llamado `README.md` en la raíz de tu repositorio.
-   - Copia todo el bloque de texto anterior y pégalo en el archivo.
-   - Personaliza `[tu-usuario]`, `[Tu Nombre]`, y cualquier configuración específica (como la base de datos o la clave JWT).
-   - Si tienes un logo o capturas, reemplaza `https://via.placeholder.com/150`.
-
-Si prefieres que te lo dé como un archivo descargable, puedo subirlo a algún servicio como Gist y darte el enlace, pero este formato debería ser fácil de copiar y usar directamente. ¿Necesitas algo más o quieres ajustar algo?
