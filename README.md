@@ -74,4 +74,3 @@ Desarrollado por DanielPM.dev como proyecto final de asignatura de AD y PMDM. La
 
 Happy coding! 🚀  
 #SpringBoot #Thymeleaf #API #PetTracker #Mascotas
-```
