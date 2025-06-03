@@ -20,7 +20,7 @@
 | Backend (API REST) | Frontend (Web) | Seguridad | Persistencia |
 |--------------------|----------------|-----------|--------------|
 | Spring Boot        | Thymeleaf      | Spring Security + JWT | Spring Data JPA |
-| REST Controllers   | Bootstrap 5    |           | Oracle / H2  |
+| REST Controllers   | Bootstrap 5    |           | Oracle   |
 | Jackson, RestTemplate | JavaScript |           |              |
 
 ---
